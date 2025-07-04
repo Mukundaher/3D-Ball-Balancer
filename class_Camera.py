@@ -12,12 +12,6 @@ class Camera:
        
         self.video_path = video_path
         self.buffer_size = buffer_size
-       
-
-# For magenta pinks (160-180° in 0-360 scale)
-        # self.lower_pink2 = np.array([168, 102, 141])  # with red in back ground
-        # # self.upper_pink2 = np.array([179, 255, 255])
-
         ## HSV range for specific pink ball detection also it ignores noise of orange and red very well
         self.lower_pink2 = np.array([116, 92, 168])  # without red in back ground
         self.upper_pink2 = np.array([179, 255, 255])
