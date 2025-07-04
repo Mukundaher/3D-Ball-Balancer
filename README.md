@@ -20,12 +20,6 @@
 - Inverse Kinematics (for 3-RRS)
 - PID Control
 - Arduino Board
-
----
-
-## 🎥 Video of robot balancing the ball
-![Video]([https://github.com/Mukundaher/3D-Ball-Balancer/blob/main/Demo.mp4])
-
 ---
 
 
