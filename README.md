@@ -33,7 +33,7 @@
 | 4. | **Usb Cable** | 1 | Connects Laptop to Arduino | 
 | 5. | **RKI1206 Servo Motors** | 3 | Actuation of platform | 
 | 6. | **Ball Joint (M6)** | 3 | Platform joints (RRS design) | 
-| 7. |**Ball Bearings (ID - 6mm, OD - 16mm)** | 3 | For joint rotation |
+| 7. |**Ball Bearings (ID - 6mm, OD - 16mm)** | 6 | For joint rotation |
 
 ---
 
