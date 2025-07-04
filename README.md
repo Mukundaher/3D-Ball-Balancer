@@ -37,7 +37,7 @@
 
 ---
 
-## 🧮 Inverse Kinematics [(Snippets)]([https://github.com/Mukundaher/3D-Ball-Balancer/blob/main/Inverse_kinematics.pdf])
+## 🧮 Inverse Kinematics [(Snippets)](https://github.com/Mukundaher/3D-Ball-Balancer/blob/main/Inverse_kinematics.pdf)
 
 We derived and implemented the IK for the 3-RRS platform to calculate the exact servo angles required to achieve desired platform tilt and height. This allowed precise control over the ball's motion.
 
